@@ -1,9 +1,6 @@
 [![GitHub](https://img.shields.io/github/followers/tanviruman?label=Follow&style=social)](https://github.com/tanviruman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tanvirumaan/)
-
 ![](https://hit.yhype.me/github/profile?user_id=86592082)
-
-
 <br>
 <div align="center">
     <a href="https://github.com/tanviruman">
