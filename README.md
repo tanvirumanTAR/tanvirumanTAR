@@ -1,5 +1,9 @@
 [![GitHub](https://img.shields.io/github/followers/tanviruman?label=Follow&style=social)](https://github.com/tanviruman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tanvirumaan/)
+
+![](https://hit.yhype.me/github/profile?user_id=86592082)
+
+
 <br>
 <div align="center">
     <a href="https://github.com/tanviruman">
@@ -10,4 +14,3 @@
  <a href="https://github.com/tanviruman?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=tanviruman&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@tanviruman's github-readme-stats"/></a>
  <a href="https://github.com/tanviruman?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanviruman&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@tanviruman's github-readme-streak-stats"/></a>
 </div>
-![](https://hit.yhype.me/github/profile?user_id=86592082)
