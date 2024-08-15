@@ -1,6 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviruman&label=Profile%20views&color=ffaa00&style=flat-square" alt="tanviruman" />  <a href="https://wakatime.com/@018d0444-5271-4ff5-9e31-91336ba41ac9"><img src="https://wakatime.com/badge/user/018d0444-5271-4ff5-9e31-91336ba41ac9.svg" alt="Total time coded since Jan 14 2024" /></a>
+
 [![GitHub](https://img.shields.io/github/followers/tanviruman?label=Follow&style=social)](https://github.com/tanviruman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tanvirumaan/)
 ![](https://hit.yhype.me/github/profile?user_id=86592082)
+
 <br>
 <div align="center">
     <a href="https://github.com/tanviruman">
