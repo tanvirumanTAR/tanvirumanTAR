@@ -14,8 +14,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tanvirumaan/)
 ![](https://hit.yhype.me/github/profile?user_id=86592082)
 <p align="center">
-<a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Tanvir+Ahmed;Research+Enthusiast+%7C+CS+Student;Aspiring+Data+Scientist" alt="Typing SVG" />
+<a href="https://github.com/tanviruman">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Tanvir+Ahmed;Research+Enthusiast+%7C+CS+Student" alt="Typing SVG" />
 </a>
 <br/>
 <a href="https://github.com/tanviruman">
